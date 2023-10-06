@@ -1,5 +1,13 @@
-![counter](https://count.getloli.com/get/@devanwashere?theme=rule34)
+# My GitHub Page
 
-[[website](https://wavecat.xyz)] [[discord](https://discord.com/users/916753164378730518)] [[steam](https://steamcommunity.com/id/wavecat/)]
- <!-- thanks xenys old acc for the files, ty for the code <33 -->
- <!-- yes i skidded this -->
+## About Me
+
+- **Name:** wave
+- **Pronouns:** they/them
+- **Location:** ireland
+
+## Contact Information
+
+- **email:** your.email@example.com
+- **Twitter:** [Your Twitter Profile](https://twitter.com/yourusername)
+- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
