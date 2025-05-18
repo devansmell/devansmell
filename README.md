@@ -8,4 +8,4 @@
 
 ## Contact Information
 
-- **email:** n/a
+- **email:** hi@devansmell.com
